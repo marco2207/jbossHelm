@@ -2,20 +2,11 @@ apiVersion: v1
 entries:
   myjboss:
   - apiVersion: v1
-    created: 2018-02-22T15:31:57.81992583+01:00
+    created: 2018-02-22T15:41:00.677955351+01:00
     description: A Helm chart for Kubernetes
-    digest: 9caf32872ed60800cf8cc8cb2cd029853b5c42bc0c660fcd746f42bc128b3e78
+    digest: 60b5306bda31270ebfb9d34bca3349e59c84db53d86de8e87b9ac966b2145b99
     name: myjboss
     urls:
     - https://marco2207.github.io/jbossHelm/myjboss-0.1.0.tgz
     version: 0.1.0
-  wfjbchart:
-  - apiVersion: v1
-    created: 2018-02-22T15:31:57.820164914+01:00
-    description: A Helm chart for Kubernetes
-    digest: 5602ea8f0d0a9418b435416f35b364b7c9d8889d64501c47ff82c919d92ef4b1
-    name: wfjbchart
-    urls:
-    - https://marco2207.github.io/jbossHelm/wfjbchart-0.1.0.tgz
-    version: 0.1.0
-generated: 2018-02-22T15:31:57.819468059+01:00
+generated: 2018-02-22T15:41:00.677478659+01:00
