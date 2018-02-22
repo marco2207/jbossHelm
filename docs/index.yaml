@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   myjboss:
   - apiVersion: v1
-    created: 2018-02-22T14:25:54.447013916+01:00
+    created: 2018-02-22T14:36:23.466736668+01:00
     description: A Helm chart for Kubernetes
-    digest: ae719f5f1afe1c6af511b27118c670f51f3ef27cfc7028cfefc165429355bbdd
+    digest: 543de6704944e37ed2759e97d1cd38f6bb730cc41593448abba5cf90cfbbf0ae
     name: myjboss
     urls:
     - https://marco2207.github.io/jbossHelm/myjboss-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-22T14:25:54.446678201+01:00
+generated: 2018-02-22T14:36:23.466152734+01:00
